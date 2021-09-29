@@ -1,0 +1,2 @@
+# contract
+Goat Finance Contract
